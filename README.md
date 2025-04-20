@@ -64,7 +64,7 @@
 
 ### 🏆 GitHub Trophies:
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=sourabhsahu&theme=lighthub&no-frame=true)](https://github.com/sourabhsahu)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=sourabhsahu&theme=lighthub&no-frame=true)](https://github.com/Sourabhsahu18?tab=repositories)
 
 ---
 
